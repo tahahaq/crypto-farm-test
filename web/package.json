@@ -6,7 +6,7 @@
     "@gongddex/hydro-sdk-wallet": "0.0.57",
     "@material-ui/core": "^4.5.0",
     "@wangleiddex/hydro-sdk-charts": "0.1.6",
-    "axios": "^0.18.0",
+    "axios": "^0.21.2",
     "bignumber.js": "^8.1.1",
     "immutable": "^4.0.0-rc.12",
     "moment": "^2.24.0",
